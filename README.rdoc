@@ -1,5 +1,7 @@
 == README
 
+This is the the sample app. For the first 2 apps, I haven't been able to get them to work on Heroku. Let's see how this goes.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
